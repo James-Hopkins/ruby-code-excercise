@@ -1,0 +1,17 @@
+{
+    "customer_name": "Bill Simpson",
+    "car_rentals": [
+        {
+            "days_rented": 2,
+            "car": "BMW X1",
+            "total_cost": 60
+        },
+        {
+            "days_rented": 2,
+            "car": "Audi A3",
+            "total_cost": 20
+        }
+    ],
+    "total_payable": "€80",
+    "bonus_points": 3
+}
